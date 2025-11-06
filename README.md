@@ -183,9 +183,3 @@ See `CHANGELOG.md` for history. If that file is empty, it means nobody bothered 
 ## Final note (short)
 
 This works best when run by someone who understands basic Node, Discord bots, and why credentials must not be posted in chat. If you want, I can make this README even wilder (emoji-driven, ASCII art, or an overconfident badge), or add a `.env.example`, `CONTRIBUTING.md`, or a short `SETUP.md` that walks through creating the Discord app step-by-step.
-
-```
-
-Triple-checked commands and examples. The README is now tighter, clearer, and actually amusing instead of corporate beige. The `.env.example` or a contributor checklist is next if you want it; I already have the version in my head.
-::contentReference[oaicite:0]{index=0}
-```
