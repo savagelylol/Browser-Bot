@@ -183,3 +183,10 @@ See `CHANGELOG.md` for history. If that file is empty, it means nobody bothered 
 ## Final note (short)
 
 This works best when run by someone who understands basic Node, Discord bots, and why credentials must not be posted in chat. If you want, I can make this README even wilder (emoji-driven, ASCII art, or an overconfident badge), or add a `.env.example`, `CONTRIBUTING.md`, or a short `SETUP.md` that walks through creating the Discord app step-by-step.
+And do not transform this into a NSFW bot!
+
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
+
+or
+
+<iframe width="560" height="315" src="https://github.com/savagelylol/Browser-Bot/blob/main/please%20dont.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
